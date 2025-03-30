@@ -11,6 +11,8 @@ We collect the following types of data entered by users:
 - **Player name, nickname, or any text** entered by the user into the results leaderboard.
 - **Feedback text**, which may include any voluntarily submitted information, including names or other identifiers.
 
+Users are not required to submit any personal information. Participation in the leaderboard or feedback form is entirely optional.
+
 No other personal or device-related data is collected automatically.
 
 ## 2. How We Use the Data
