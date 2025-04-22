@@ -1,8 +1,15 @@
 # Privacy Policy for Piškvorky
 
-**Effective date:** March 30, 2025
+**Effective date:** March 30, 2025  
+**Updated version available:** [See Privacy Policy for version 2.0 (from April 2025)](https://martin-mlatilik.github.io/piskvorky-public/privacy-policy/v2.html)
 
 This privacy policy applies to the mobile application **Piškvorky** (“the App”) developed by the publisher. We value your privacy and are committed to protecting any information you provide while using the App.
+
+> ℹ️ **Note:** This policy applies to versions of the App released **before April 22, 2025**.  
+> If you are using version 2.0 or newer, please refer to the updated policy here:  
+> 👉 [Privacy Policy for version 2.0](https://martin-mlatilik.github.io/piskvorky-public/privacy-policy/v2.html)
+
+---
 
 ## 1. What Data We Collect
 
